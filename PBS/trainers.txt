@@ -1,0 +1,259 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[ROCKER,Napster]
+LoseText = "Oh shocks."
+Pokemon = JOLTIK,6
+Pokemon = SHINX,6
+#-------------------------------
+[LASS,Muffet]
+LoseText = "Good job..."
+Pokemon = SPINARAK,8
+Pokemon = DEWPIDER,10
+#-------------------------------
+[CRUSHGIRL,Noki]
+LoseText = "Nice battle."
+Pokemon = RIOLU,8
+Pokemon = STUFFUL,10
+#-------------------------------
+[ROCKER,TonTon]
+LoseText = "You rock!"
+Pokemon = PICHU,7
+Pokemon = CHATOT,9
+Pokemon = MAGNEMITE,12
+#-------------------------------
+[PICNICKER,Katti]
+LoseText = "Sorry, I won't fight anymore!"
+Pokemon = SPOINK,7
+#-------------------------------
+[PICNICKER,Katty]
+LoseText = "Nice battle it was, huh?"
+Pokemon = MEOWTH,8
+#-------------------------------
+[AROMALADY,Molly]
+LoseText = "I can't even be angry."
+Pokemon = SHELLOS,4
+Pokemon = ODDISH,4
+Pokemon = BOUNSWEET,4
+    Moves = ATTRACT,BOUNCE,SPLASH,PLAYNICE
+#-------------------------------
+[BEAUTY,Lux] #double battle?
+LoseText = "You don't mind me recording this battle, right?"
+Pokemon = SUNFLORA,6
+Pokemon = PETILIL,6
+#-------------------------------
+[LEADER_Erika,Rose]
+Items = POTION
+LoseText = "Very good."
+Pokemon = CHERUBI,9
+    Moves = TACKLE,LEAFAGE,TICKLE,ROLLOUT
+    IV = 20,20,20,20,20,20
+Pokemon = FOMANTIS,9
+    Shiny = yes
+    Moves = LEAFAGE,FURYCUTTER,POISONJAB,BUGBITE
+    Item = ORANBERRY
+    IV = 20,20,20,20,20,20
+    Ball = PREMIERBALL
+#-------------------------------
+[PAINTER,Fuku]
+LoseText = "Well, colour me surprised..."
+Pokemon = HELIOPTILE,6
+Pokemon = LITWICK,7
+Pokemon = KECLEON,8
+    Gender = female
+    Moves = TAILWHIP,LICK,SCRATCH,FEINT
+    Ball = FRIENDBALL
+#-------------------------------
+[BEAUTY,Haley]  #double battle?
+LoseText = "Ooh..."
+Pokemon = EXEGGCUTE,8
+    Moves = ABSORB,REFLECT,HYPNOSIS,ROUND
+Pokemon = ALCREMIE_44,8
+    Gender = female
+    Moves = DECORATE,TACKLE,SWEETKISS,AROMATICMIST
+Pokemon = SUNFLORA,8
+    Gender = female
+    Moves = SEEDBOMB,TACKLE,GROWTH,INGRAIN
+#---------------------
+[FISHERMAN,Onion]
+LoseText = "My exotic catches lost? Oh well."
+Pokemon = LUVDISC,9
+Pokemon = FINNEON,10
+	Moves = POUND,SIGNALBEAM,WATERGUN,ATTRACT
+Pokemon = ARROKUDA,12
+#-------------------------------
+[AQUAGRUNT_F,Dyna] # Pirate Cosplayer
+LoseText = "River me timbers! ...Am I doing this right?"
+Pokemon = WINGULL,10
+    Gender = female
+Pokemon = TENTACOOL,11
+    Gender = female
+    Moves = QUICKATTACK,SUPERSONIC,SCALD,THIEF
+Pokemon = CHINCHOU,12
+    Gender = female
+#-------------------------------
+[AQUAGRUNT_M,Rool] # Pirate Cosplayer
+LoseText = "Someday I will rule this gym! In a few years."
+Pokemon = GOLDEEN,11
+Pokemon = QWILFISH,12
+#-------------------------------
+[SAILOR,Row] 
+LoseText = "Should I return to making deliveries?"
+Pokemon = DELIBIRD,12
+    Moves = PRESENT,QUICKATTACK,FREEZEDRY,WATERPULSE
+Pokemon = HORSEA,12
+    Moves = WATERGUN,LEER,RAINDANCE,SWIFT
+Pokemon = FRILLISH,12
+#-------------------------------
+[LEADER_Wallace,Oceaton] 
+LoseText = "Splendid!"
+Items = SUPERPOTION
+Pokemon = STARYU,14
+    IV = 20,20,20,20,20,20
+    Moves = WATERGUN,RAPIDSPIN,ICYWIND,RAINDANCE
+    Ball = DIVEBALL
+Pokemon = CORSOLA,16
+    IV = 20,20,20,20,20,20
+    Moves = NATUREPOWER,HEX,WATERPULSE,WILLOWISP
+    Ball = DUSKBALL
+	Form = 1
+Pokemon = LOMBRE,18
+    Moves = KNOCKOFF,WATERGUN,MEGADRAIN,RAINDANCE
+    Shiny = yes
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = NETBALL
+#---------------------
+[POKEMONTRAINER_Giselle,Leilla,1]
+LoseText = "You got lucky!"
+Throw it out! before the gym, can be a threat
+idea: yelled-at rookidee hides behind the protagonist
+Pokemon = SUNFLORA,10
+    Gender = female
+    Moves = TACKLE,GROWTH,MEGADRAIN,SUNNYDAY
+    IV = 20,20,20,20,20,20
+	Ball = CHERISHBALL
+Pokemon = JOLTIK,10
+    Moves = FURYCUTTER,ELECTROWEB,BUGBITE,VOLTSWITCH
+    Ball = NESTBALL
+    Gender = female
+Pokemon = BUNEARY,10
+    Moves = POUND,BABYDOLLEYES,ATTRACT,DIG
+    Ball = NESTBALL
+    Gender = female

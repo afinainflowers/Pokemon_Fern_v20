@@ -1,0 +1,3051 @@
+#-------------------------------
+[BULBASAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT
+#-------------------------------
+[IVYSAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT
+#-------------------------------
+[VENUSAUR]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT
+#-------------------------------
+[CHARMANDER]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CHARMELEON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CHARIZARD]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SQUIRTLE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[WARTORTLE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[BLASTOISE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[BUTTERFREE]
+Skills = FLASH,DEFOG
+#-------------------------------
+[BEEDRILL]
+Skills = CUT,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[PIDGEY]
+Skills = FLY,DEFOG
+#-------------------------------
+[PIDGEOTTO]
+Skills = FLY,DEFOG
+#-------------------------------
+[PIDGEOT]
+Skills = FLY,DEFOG
+#-------------------------------
+[RATTATA]
+Skills = CUT,ROCKSMASH,DIG
+#-------------------------------
+[RATICATE]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SPEAROW]
+Skills = FLY,DEFOG
+#-------------------------------
+[FEAROW]
+Skills = FLY,DEFOG
+#-------------------------------
+[EKANS]
+Skills = STRENGTH,DIG
+#-------------------------------
+[ARBOK]
+Skills = STRENGTH,DIG
+#-------------------------------
+[PIKACHU]
+Skills = SURF,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[RAICHU]
+Skills = SURF,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SANDSHREW]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SANDSLASH]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[NIDORANfE]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[NIDORINA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[NIDOQUEEN]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[NIDORANmA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[NIDORINO]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[NIDOKING]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[CLEFAIRY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[CLEFABLE]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[VULPIX]
+Skills = DIG
+#-------------------------------
+[NINETALES]
+Skills = DIG
+#-------------------------------
+[JIGGLYPUFF]
+Skills = STRENGTH,FLASH,DIG
+#-------------------------------
+[WIGGLYTUFF]
+Skills = STRENGTH,FLASH,DIG
+#-------------------------------
+[ZUBAT]
+Skills = FLY,DEFOG
+#-------------------------------
+[GOLBAT]
+Skills = FLY,DEFOG
+#-------------------------------
+[ODDISH]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[GLOOM]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[VILEPLUME]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[PARAS]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SWEETSCENT
+#-------------------------------
+[PARASECT]
+Skills = CUT,FLASH,ROCKSMASH,DIG,SWEETSCENT
+#-------------------------------
+[VENONAT]
+Skills = FLASH
+#-------------------------------
+[VENOMOTH]
+Skills = FLASH,DEFOG
+#-------------------------------
+[DIGLETT]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[DUGTRIO]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[MEOWTH]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[PERSIAN]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[PSYDUCK]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[GOLDUCK]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[MANKEY]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[PRIMEAPE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GROWLITHE]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[ARCANINE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[POLIWAG]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG
+#-------------------------------
+[POLIWHIRL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[POLIWRATH]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[ABRA]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[KADABRA]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[ALAKAZAM]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[MACHOP]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[MACHOKE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[MACHAMP]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[BELLSPROUT]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[WEEPINBELL]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[VICTREEBEL]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[TENTACOOL]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[TENTACRUEL]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[GEODUDE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GRAVELER]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GOLEM]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[PONYTA]
+Skills = STRENGTH
+#-------------------------------
+[RAPIDASH]
+Skills = STRENGTH
+#-------------------------------
+[SLOWPOKE]
+Skills = SURF,STRENGTH,DIVE,FLASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[SLOWBRO]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[MAGNEMITE]
+Skills = FLASH
+#-------------------------------
+[MAGNETON]
+Skills = FLASH
+#-------------------------------
+[FARFETCHD]
+Skills = CUT,FLY,DEFOG
+#-------------------------------
+[DODUO]
+Skills = FLY
+#-------------------------------
+[DODRIO]
+Skills = FLY
+#-------------------------------
+[SEEL]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT
+#-------------------------------
+[DEWGONG]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT
+#-------------------------------
+[GRIMER]
+Skills = STRENGTH,DIG
+#-------------------------------
+[MUK]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SHELLDER]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[CLOYSTER]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[GENGAR]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[ONIX]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[DROWZEE]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[HYPNO]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[KRABBY]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[KINGLER]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[VOLTORB]
+Skills = FLASH
+#-------------------------------
+[ELECTRODE]
+Skills = FLASH
+#-------------------------------
+[EXEGGCUTE]
+Skills = STRENGTH,FLASH
+#-------------------------------
+[EXEGGUTOR]
+Skills = STRENGTH,FLASH
+#-------------------------------
+[CUBONE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[MAROWAK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[HITMONLEE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[HITMONCHAN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[LICKITUNG]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[KOFFING]
+Skills = FLASH
+#-------------------------------
+[WEEZING]
+Skills = FLASH
+#-------------------------------
+[RHYHORN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[RHYDON]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[CHANSEY]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SOFTBOILED
+#-------------------------------
+[TANGELA]
+Skills = CUT,FLASH,ROCKSMASH
+#-------------------------------
+[KANGASKHAN]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[HORSEA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SEADRA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[GOLDEEN]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SEAKING]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[STARYU]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL
+#-------------------------------
+[STARMIE]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL
+#-------------------------------
+[MRMIME]
+Skills = FLASH
+#-------------------------------
+[SCYTHER]
+Skills = CUT,ROCKSMASH,DEFOG
+#-------------------------------
+[JYNX]
+Skills = FLASH
+#-------------------------------
+[ELECTABUZZ]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[MAGMAR]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[PINSIR]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[TAUROS]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB
+#-------------------------------
+[GYARADOS]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[LAPRAS]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[EEVEE]
+Skills = DIG
+#-------------------------------
+[VAPOREON]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[JOLTEON]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[FLAREON]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[PORYGON]
+Skills = FLASH
+#-------------------------------
+[OMANYTE]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[OMASTAR]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB
+#-------------------------------
+[KABUTO]
+Skills = SURF,WATERFALL,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[KABUTOPS]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[AERODACTYL]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG
+#-------------------------------
+[SNORLAX]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB
+#-------------------------------
+[ARTICUNO]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[ZAPDOS]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[MOLTRES]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[DRATINI]
+Skills = SURF,WATERFALL,WHIRLPOOL
+#-------------------------------
+[DRAGONAIR]
+Skills = SURF,WATERFALL,WHIRLPOOL
+#-------------------------------
+[DRAGONITE]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[MEWTWO]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[MEW]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DEFOG,ROCKCLIMB,DIG
+#-------------------------------
+[CHIKORITA]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[BAYLEEF]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,SWEETSCENT
+#-------------------------------
+[MEGANIUM]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT
+#-------------------------------
+[CYNDAQUIL]
+Skills = CUT,DIG
+#-------------------------------
+[QUILAVA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[TYPHLOSION]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[TOTODILE]
+Skills = CUT,SURF,WATERFALL,DIVE,DIG
+#-------------------------------
+[CROCONAW]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,DIG
+#-------------------------------
+[FERALIGATR]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SENTRET]
+Skills = CUT,SURF,DIG
+#-------------------------------
+[FURRET]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[HOOTHOOT]
+Skills = FLY,DEFOG
+#-------------------------------
+[NOCTOWL]
+Skills = FLY,DEFOG
+#-------------------------------
+[LEDYBA]
+Skills = FLASH,DIG
+#-------------------------------
+[LEDIAN]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SPINARAK]
+Skills = FLASH,DIG
+#-------------------------------
+[ARIADOS]
+Skills = FLASH,DIG
+#-------------------------------
+[CROBAT]
+Skills = FLY,DEFOG
+#-------------------------------
+[CHINCHOU]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL
+#-------------------------------
+[LANTURN]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL
+#-------------------------------
+[PICHU]
+Skills = SURF,FLASH
+#-------------------------------
+[CLEFFA]
+Skills = FLASH,DIG
+#-------------------------------
+[IGGLYBUFF]
+Skills = FLASH,DIG
+#-------------------------------
+[TOGEPI]
+Skills = FLASH,ROCKSMASH
+#-------------------------------
+[TOGETIC]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[NATU]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[XATU]
+Skills = FLY,FLASH,DEFOG,TELEPORT
+#-------------------------------
+[MAREEP]
+Skills = FLASH
+#-------------------------------
+[FLAAFFY]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[AMPHAROS]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[BELLOSSOM]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[MARILL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[AZUMARILL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[SUDOWOODO]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[POLITOED]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[HOPPIP]
+Skills = FLASH
+#-------------------------------
+[SKIPLOOM]
+Skills = FLASH
+#-------------------------------
+[JUMPLUFF]
+Skills = FLASH
+#-------------------------------
+[AIPOM]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SUNKERN]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[SUNFLORA]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[YANMA]
+Skills = FLASH,DEFOG
+#-------------------------------
+[WOOPER]
+Skills = SURF,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[QUAGSIRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[ESPEON]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[UMBREON]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[MURKROW]
+Skills = FLY,DEFOG
+#-------------------------------
+[SLOWKING]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[MISDREAVUS]
+Skills = FLASH
+#-------------------------------
+[GIRAFARIG]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[PINECO]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[FORRETRESS]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[DUNSPARCE]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[GLIGAR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[STEELIX]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SNUBBULL]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[GRANBULL]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[QWILFISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SCIZOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG
+#-------------------------------
+[SHUCKLE]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,SWEETSCENT
+#-------------------------------
+[HERACROSS]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SNEASEL]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[TEDDIURSA]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,SWEETSCENT
+#-------------------------------
+[URSARING]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,SWEETSCENT
+#-------------------------------
+[SLUGMA]
+Skills = ROCKSMASH
+#-------------------------------
+[MAGCARGO]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[SWINUB]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[PILOSWINE]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CORSOLA]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[REMORAID]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[OCTILLERY]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[DELIBIRD]
+Skills = FLY,DEFOG
+#-------------------------------
+[MANTINE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG,HEADBUTT
+#-------------------------------
+[SKARMORY]
+Skills = CUT,FLY,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[HOUNDOUR]
+Skills = ROCKSMASH
+#-------------------------------
+[HOUNDOOM]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[KINGDRA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[PHANPY]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[DONPHAN]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[PORYGON2]
+Skills = FLASH
+#-------------------------------
+[STANTLER]
+Skills = FLASH
+#-------------------------------
+[TYROGUE]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[HITMONTOP]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SMOOCHUM]
+Skills = FLASH
+#-------------------------------
+[ELEKID]
+Skills = FLASH,ROCKSMASH
+#-------------------------------
+[MAGBY]
+Skills = ROCKSMASH
+#-------------------------------
+[MILTANK]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,HEADBUTT,MILKDRINK
+#-------------------------------
+[BLISSEY]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SOFTBOILED
+#-------------------------------
+[RAIKOU]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[ENTEI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SUICUNE]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[LARVITAR]
+Skills = ROCKSMASH,DIG
+#-------------------------------
+[PUPITAR]
+Skills = ROCKSMASH,DIG
+#-------------------------------
+[TYRANITAR]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[LUGIA]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[HOOH]
+Skills = FLY,STRENGTH,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[CELEBI]
+Skills = CUT,FLASH
+#-------------------------------
+[TREECKO]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[GROVYLE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SCEPTILE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[TORCHIC]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[COMBUSKEN]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[BLAZIKEN]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[MUDKIP]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[MARSHTOMP]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[SWAMPERT]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[POOCHYENA]
+Skills = ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[MIGHTYENA]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[ZIGZAGOON]
+Skills = CUT,SURF,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[LINOONE]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[BEAUTIFLY]
+Skills = FLASH,DEFOG
+#-------------------------------
+[DUSTOX]
+Skills = FLASH,DEFOG
+#-------------------------------
+[LOTAD]
+Skills = SURF,FLASH,WHIRLPOOL,SWEETSCENT
+#-------------------------------
+[LOMBRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,SWEETSCENT
+#-------------------------------
+[LUDICOLO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,SWEETSCENT
+#-------------------------------
+[SEEDOT]
+Skills = FLASH,ROCKSMASH,DIG
+#-------------------------------
+[NUZLEAF]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SHIFTRY]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[TAILLOW]
+Skills = FLY,DEFOG
+#-------------------------------
+[SWELLOW]
+Skills = FLY,DEFOG
+#-------------------------------
+[WINGULL]
+Skills = FLY,DEFOG
+#-------------------------------
+[PELIPPER]
+Skills = FLY,SURF,WHIRLPOOL,DEFOG
+#-------------------------------
+[RALTS]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[KIRLIA]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[GARDEVOIR]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[SURSKIT]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[MASQUERAIN]
+Skills = FLASH,DEFOG,SWEETSCENT
+#-------------------------------
+[SHROOMISH]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[BRELOOM]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[SLAKOTH]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[VIGOROTH]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,HEADBUTT
+#-------------------------------
+[SLAKING]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,HEADBUTT
+#-------------------------------
+[NINCADA]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[NINJASK]
+Skills = CUT,FLASH,DEFOG,DIG
+#-------------------------------
+[SHEDINJA]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[LOUDRED]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[EXPLOUD]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB
+#-------------------------------
+[MAKUHITA]
+Skills = SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[HARIYAMA]
+Skills = SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[AZURILL]
+Skills = SURF,WATERFALL,WHIRLPOOL
+#-------------------------------
+[NOSEPASS]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[SKITTY]
+Skills = FLASH,DIG
+#-------------------------------
+[DELCATTY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SABLEYE]
+Skills = CUT,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[MAWILE]
+Skills = STRENGTH,ROCKSMASH,SWEETSCENT
+#-------------------------------
+[ARON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[LAIRON]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[AGGRON]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[MEDITITE]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[MEDICHAM]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[ELECTRIKE]
+Skills = STRENGTH,FLASH,HEADBUTT
+#-------------------------------
+[MANECTRIC]
+Skills = STRENGTH,FLASH,HEADBUTT
+#-------------------------------
+[PLUSLE]
+Skills = FLASH
+#-------------------------------
+[MINUN]
+Skills = FLASH
+#-------------------------------
+[VOLBEAT]
+Skills = FLASH
+#-------------------------------
+[ILLUMISE]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[ROSELIA]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[GULPIN]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[SWALOT]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[CARVANHA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SHARPEDO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[WAILMER]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[WAILORD]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[NUMEL]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CAMERUPT]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[TORKOAL]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[SPOINK]
+Skills = FLASH
+#-------------------------------
+[GRUMPIG]
+Skills = FLASH
+#-------------------------------
+[SPINDA]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[TRAPINCH]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[VIBRAVA]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[FLYGON]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[CACNEA]
+Skills = CUT,FLASH
+#-------------------------------
+[CACTURNE]
+Skills = CUT,STRENGTH,FLASH
+#-------------------------------
+[SWABLU]
+Skills = FLY
+#-------------------------------
+[ALTARIA]
+Skills = FLY,ROCKSMASH
+#-------------------------------
+[ZANGOOSE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SEVIPER]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[LUNATONE]
+Skills = FLASH
+#-------------------------------
+[SOLROCK]
+Skills = FLASH
+#-------------------------------
+[BARBOACH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[WHISCASH]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[CORPHISH]
+Skills = CUT,SURF,STRENGTH,WATERFALL,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[CRAWDAUNT]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[BALTOY]
+Skills = FLASH,DIG
+#-------------------------------
+[CLAYDOL]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG,TELEPORT
+#-------------------------------
+[LILEEP]
+Skills = FLASH
+#-------------------------------
+[CRADILY]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[ANORITH]
+Skills = CUT,ROCKSMASH,DIG
+#-------------------------------
+[ARMALDO]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[FEEBAS]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[MILOTIC]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[CASTFORM]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[KECLEON]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[SHUPPET]
+Skills = FLASH
+#-------------------------------
+[BANETTE]
+Skills = FLASH
+#-------------------------------
+[DUSKULL]
+Skills = FLASH
+#-------------------------------
+[DUSCLOPS]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[TROPIUS]
+Skills = CUT,FLY,STRENGTH,FLASH,ROCKSMASH,DEFOG,SWEETSCENT,HEADBUTT
+#-------------------------------
+[CHIMECHO]
+Skills = FLASH
+#-------------------------------
+[ABSOL]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[SNORUNT]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[GLALIE]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[SPHEAL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[SEALEO]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[WALREIN]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[CLAMPERL]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[HUNTAIL]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[GOREBYSS]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[RELICANTH]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[LUVDISC]
+Skills = SURF,WATERFALL,DIVE
+#-------------------------------
+[BAGON]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[SHELGON]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[SALAMENCE]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,HEADBUTT
+#-------------------------------
+[METANG]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[METAGROSS]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[REGIROCK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[REGICE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[REGISTEEL]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[LATIAS]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[LATIOS]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[KYOGRE]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[GROUDON]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[RAYQUAZA]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[JIRACHI]
+Skills = FLASH
+#-------------------------------
+[DEOXYS]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT
+#-------------------------------
+[TURTWIG]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[GROTLE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[TORTERRA]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[CHIMCHAR]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[MONFERNO]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[INFERNAPE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[PIPLUP]
+Skills = CUT,SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG,DIG
+#-------------------------------
+[PRINPLUP]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG,DIG
+#-------------------------------
+[EMPOLEON]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DEFOG,ROCKCLIMB,DIG
+#-------------------------------
+[STARLY]
+Skills = FLY,DEFOG
+#-------------------------------
+[STARAVIA]
+Skills = FLY,DEFOG
+#-------------------------------
+[STARAPTOR]
+Skills = FLY,DEFOG
+#-------------------------------
+[BIDOOF]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[BIBAREL]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[KRICKETUNE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[SHINX]
+Skills = STRENGTH,FLASH
+#-------------------------------
+[LUXIO]
+Skills = STRENGTH,FLASH
+#-------------------------------
+[LUXRAY]
+Skills = STRENGTH,FLASH
+#-------------------------------
+[BUDEW]
+Skills = CUT,FLASH
+#-------------------------------
+[ROSERADE]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[CRANIDOS]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[RAMPARDOS]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[SHIELDON]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[BASTIODON]
+Skills = STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[WORMADAM]
+Skills = FLASH,DIG
+#-------------------------------
+[MOTHIM]
+Skills = FLASH,DEFOG
+#-------------------------------
+[COMBEE]
+Skills = SWEETSCENT
+#-------------------------------
+[VESPIQUEN]
+Skills = CUT,FLASH,DEFOG,SWEETSCENT
+#-------------------------------
+[PACHIRISU]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[BUIZEL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[FLOATZEL]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[CHERUBI]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[CHERRIM]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[SHELLOS]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[GASTRODON]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[AMBIPOM]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[DRIFLOON]
+Skills = CUT,FLASH,DEFOG
+#-------------------------------
+[DRIFBLIM]
+Skills = CUT,FLY,FLASH,DEFOG
+#-------------------------------
+[BUNEARY]
+Skills = CUT,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[LOPUNNY]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[MISMAGIUS]
+Skills = FLASH
+#-------------------------------
+[HONCHKROW]
+Skills = FLY,DEFOG
+#-------------------------------
+[GLAMEOW]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[PURUGLY]
+Skills = CUT,FLASH,DIG
+#-------------------------------
+[CHINGLING]
+Skills = FLASH
+#-------------------------------
+[STUNKY]
+Skills = CUT,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[SKUNTANK]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[BRONZOR]
+Skills = FLASH
+#-------------------------------
+[BRONZONG]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[BONSLY]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[MIMEJR]
+Skills = FLASH
+#-------------------------------
+[HAPPINY]
+Skills = FLASH
+#-------------------------------
+[CHATOT]
+Skills = FLY,DEFOG
+#-------------------------------
+[SPIRITOMB]
+Skills = FLASH
+#-------------------------------
+[GIBLE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GABITE]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GARCHOMP]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[MUNCHLAX]
+Skills = SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB
+#-------------------------------
+[RIOLU]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[LUCARIO]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[HIPPOPOTAS]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[HIPPOWDON]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[SKORUPI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[DRAPION]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[CROAGUNK]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[TOXICROAK]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[CARNIVINE]
+Skills = CUT,FLASH,SWEETSCENT
+#-------------------------------
+[FINNEON]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[LUMINEON]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[MANTYKE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[SNOVER]
+Skills = FLASH
+#-------------------------------
+[ABOMASNOW]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[WEAVILE]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[MAGNEZONE]
+Skills = FLASH
+#-------------------------------
+[LICKILICKY]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[RHYPERIOR]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[TANGROWTH]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[ELECTIVIRE]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[MAGMORTAR]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[TOGEKISS]
+Skills = FLY,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[YANMEGA]
+Skills = FLASH,DEFOG
+#-------------------------------
+[LEAFEON]
+Skills = STRENGTH,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[GLACEON]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[GLISCOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,DIG
+#-------------------------------
+[MAMOSWINE]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[PORYGONZ]
+Skills = FLASH
+#-------------------------------
+[GALLADE]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT
+#-------------------------------
+[PROBOPASS]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[DUSKNOIR]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[FROSLASS]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[ROTOM]
+Skills = FLASH
+#-------------------------------
+[UXIE]
+Skills = FLASH
+#-------------------------------
+[MESPRIT]
+Skills = FLASH
+#-------------------------------
+[AZELF]
+Skills = FLASH
+#-------------------------------
+[DIALGA]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[PALKIA]
+Skills = CUT,SURF,STRENGTH,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[HEATRAN]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[REGIGIGAS]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[GIRATINA]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[CRESSELIA]
+Skills = FLASH
+#-------------------------------
+[PHIONE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[MANAPHY]
+Skills = SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL
+#-------------------------------
+[DARKRAI]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[SHAYMIN]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[ARCEUS]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[VICTINI]
+Skills = HEADBUTT
+#-------------------------------
+[SNIVY]
+Skills = CUT,DEFOG,SWEETSCENT
+#-------------------------------
+[SERVINE]
+Skills = CUT,DEFOG,SWEETSCENT
+#-------------------------------
+[SERPERIOR]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG,SWEETSCENT
+#-------------------------------
+[TEPIG]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[PIGNITE]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[EMBOAR]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[OSHAWOTT]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[DEWOTT]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[SAMUROTT]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[PATRAT]
+Skills = CUT
+#-------------------------------
+[WATCHOG]
+Skills = CUT,STRENGTH,ROCKSMASH
+#-------------------------------
+[LILLIPUP]
+Skills = DIG
+#-------------------------------
+[HERDIER]
+Skills = SURF,DIG
+#-------------------------------
+[STOUTLAND]
+Skills = SURF,DIG
+#-------------------------------
+[PANSAGE]
+Skills = CUT,ROCKSMASH
+#-------------------------------
+[SIMISAGE]
+Skills = CUT,ROCKSMASH
+#-------------------------------
+[PANSEAR]
+Skills = CUT,ROCKSMASH
+#-------------------------------
+[SIMISEAR]
+Skills = CUT,ROCKSMASH
+#-------------------------------
+[PANPOUR]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[SIMIPOUR]
+Skills = CUT,SURF,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[PIDOVE]
+Skills = FLY,DEFOG
+#-------------------------------
+[TRANQUILL]
+Skills = FLY,DEFOG
+#-------------------------------
+[UNFEZANT]
+Skills = FLY,DEFOG
+#-------------------------------
+[ZEBSTRIKA]
+Skills = ROCKSMASH
+#-------------------------------
+[ROGGENROLA]
+Skills = HEADBUTT
+#-------------------------------
+[BOLDORE]
+Skills = HEADBUTT
+#-------------------------------
+[GIGALITH]
+Skills = HEADBUTT
+#-------------------------------
+[WOOBAT]
+Skills = FLY
+#-------------------------------
+[SWOOBAT]
+Skills = FLY
+#-------------------------------
+[DRILBUR]
+Skills = DIG
+#-------------------------------
+[EXCADRILL]
+Skills = DIG
+#-------------------------------
+[AUDINO]
+Skills = SURF,DIG
+#-------------------------------
+[TIMBURR]
+Skills = DEFOG,DIG
+#-------------------------------
+[GURDURR]
+Skills = DEFOG,DIG
+#-------------------------------
+[CONKELDURR]
+Skills = DEFOG,DIG
+#-------------------------------
+[TYMPOLE]
+Skills = SURF
+#-------------------------------
+[PALPITOAD]
+Skills = SURF
+#-------------------------------
+[SEISMITOAD]
+Skills = SURF,DIVE,DIG
+#-------------------------------
+[THROH]
+Skills = DIG
+#-------------------------------
+[SAWK]
+Skills = ROCKSMASH,DIG
+#-------------------------------
+[SEWADDLE]
+Skills = CUT
+#-------------------------------
+[SWADLOON]
+Skills = CUT
+#-------------------------------
+[LEAVANNY]
+Skills = CUT
+#-------------------------------
+[SCOLIPEDE]
+Skills = DIG
+#-------------------------------
+[PETILIL]
+Skills = SWEETSCENT
+#-------------------------------
+[LILLIGANT]
+Skills = SWEETSCENT
+#-------------------------------
+[BASCULIN]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[SANDILE]
+Skills = DIG
+#-------------------------------
+[KROKOROK]
+Skills = DIG
+#-------------------------------
+[KROOKODILE]
+Skills = DIG
+#-------------------------------
+[DARUMAKA]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DARMANITAN]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[MARACTUS]
+Skills = SWEETSCENT
+#-------------------------------
+[DWEBBLE]
+Skills = DIG
+#-------------------------------
+[CRUSTLE]
+Skills = DIG
+#-------------------------------
+[SCRAGGY]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[SCRAFTY]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[SIGILYPH]
+Skills = FLY
+#-------------------------------
+[TIRTOUGA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG
+#-------------------------------
+[CARRACOSTA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG
+#-------------------------------
+[ARCHEN]
+Skills = DEFOG,DIG
+#-------------------------------
+[ARCHEOPS]
+Skills = FLY,DEFOG,DIG
+#-------------------------------
+[ZORUA]
+Skills = DIG
+#-------------------------------
+[ZOROARK]
+Skills = DIG
+#-------------------------------
+[MINCCINO]
+Skills = DIG
+#-------------------------------
+[CINCCINO]
+Skills = DIG
+#-------------------------------
+[DUCKLETT]
+Skills = FLY,SURF,DIVE,DEFOG
+#-------------------------------
+[SWANNA]
+Skills = FLY,SURF,DIVE,DEFOG
+#-------------------------------
+[DEERLING]
+Skills = HEADBUTT
+#-------------------------------
+[SAWSBUCK]
+Skills = CUT,ROCKSMASH,HEADBUTT
+#-------------------------------
+[EMOLGA]
+Skills = DEFOG
+#-------------------------------
+[KARRABLAST]
+Skills = HEADBUTT
+#-------------------------------
+[ESCAVALIER]
+Skills = HEADBUTT
+#-------------------------------
+[FOONGUS]
+Skills = SWEETSCENT
+#-------------------------------
+[AMOONGUSS]
+Skills = SWEETSCENT
+#-------------------------------
+[FRILLISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[JELLICENT]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[ALOMOMOLA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[EELEKTRIK]
+Skills = HEADBUTT
+#-------------------------------
+[EELEKTROSS]
+Skills = CUT,STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[ELGYEM]
+Skills = TELEPORT,HEADBUTT
+#-------------------------------
+[BEHEEYEM]
+Skills = TELEPORT,HEADBUTT
+#-------------------------------
+[AXEW]
+Skills = DIG
+#-------------------------------
+[FRAXURE]
+Skills = DIG
+#-------------------------------
+[HAXORUS]
+Skills = SURF,DIG
+#-------------------------------
+[CUBCHOO]
+Skills = SURF,DIG
+#-------------------------------
+[BEARTIC]
+Skills = SURF,DIVE,DIG
+#-------------------------------
+[STUNFISK]
+Skills = SURF,DIG
+#-------------------------------
+[MIENFOO]
+Skills = DIG
+#-------------------------------
+[MIENSHAO]
+Skills = DIG
+#-------------------------------
+[DRUDDIGON]
+Skills = SURF,DIG
+#-------------------------------
+[GOLETT]
+Skills = DIG
+#-------------------------------
+[GOLURK]
+Skills = FLY,DIG
+#-------------------------------
+[PAWNIARD]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[BISHARP]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[BOUFFALANT]
+Skills = SURF,HEADBUTT
+#-------------------------------
+[RUFFLET]
+Skills = FLY,DEFOG
+#-------------------------------
+[BRAVIARY]
+Skills = FLY,DEFOG
+#-------------------------------
+[VULLABY]
+Skills = FLY,DEFOG
+#-------------------------------
+[MANDIBUZZ]
+Skills = FLY,DEFOG
+#-------------------------------
+[HEATMOR]
+Skills = DIG
+#-------------------------------
+[DURANT]
+Skills = DIG
+#-------------------------------
+[DEINO]
+Skills = HEADBUTT
+#-------------------------------
+[ZWEILOUS]
+Skills = HEADBUTT
+#-------------------------------
+[HYDREIGON]
+Skills = FLY,SURF,HEADBUTT
+#-------------------------------
+[VOLCARONA]
+Skills = FLY
+#-------------------------------
+[TORNADUS]
+Skills = FLY
+#-------------------------------
+[THUNDURUS]
+Skills = FLY
+#-------------------------------
+[RESHIRAM]
+Skills = FLY
+#-------------------------------
+[ZEKROM]
+Skills = FLY
+#-------------------------------
+[LANDORUS]
+Skills = FLY,DIG
+#-------------------------------
+[KYUREM]
+Skills = FLY
+#-------------------------------
+[KELDEO]
+Skills = SURF
+#-------------------------------
+[MELOETTA]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[GENESECT]
+Skills = FLY
+#-------------------------------
+[CHESPIN]
+Skills = CUT,STRENGTH,ROCKSMASH
+#-------------------------------
+[QUILLADIN]
+Skills = CUT,STRENGTH,ROCKSMASH
+#-------------------------------
+[CHESNAUGHT]
+Skills = CUT,STRENGTH,ROCKSMASH
+#-------------------------------
+[FENNEKIN]
+Skills = CUT
+#-------------------------------
+[BRAIXEN]
+Skills = CUT
+#-------------------------------
+[DELPHOX]
+Skills = CUT
+#-------------------------------
+[FROAKIE]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[FROGADIER]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[GRENINJA]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[BUNNELBY]
+Skills = SURF,DIG
+#-------------------------------
+[DIGGERSBY]
+Skills = SURF,DIG
+#-------------------------------
+[FLETCHLING]
+Skills = FLY,DEFOG
+#-------------------------------
+[FLETCHINDER]
+Skills = FLY,DEFOG
+#-------------------------------
+[TALONFLAME]
+Skills = FLY,DEFOG
+#-------------------------------
+[VIVILLON]
+Skills = DEFOG
+#-------------------------------
+[LITLEO]
+Skills = STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[PYROAR]
+Skills = STRENGTH,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FLORGES]
+Skills = DEFOG
+#-------------------------------
+[SKIDDO]
+Skills = SURF,STRENGTH,ROCKSMASH,MILKDRINK
+#-------------------------------
+[GOGOAT]
+Skills = SURF,STRENGTH,ROCKSMASH,MILKDRINK
+#-------------------------------
+[PANCHAM]
+Skills = SURF,DIG
+#-------------------------------
+[PANGORO]
+Skills = SURF,DIG
+#-------------------------------
+[FURFROU]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[MEOWSTIC]
+Skills = DIG
+#-------------------------------
+[SPRITZEE]
+Skills = SWEETSCENT
+#-------------------------------
+[AROMATISSE]
+Skills = SWEETSCENT
+#-------------------------------
+[SWIRLIX]
+Skills = SURF,SWEETSCENT
+#-------------------------------
+[SLURPUFF]
+Skills = SURF,SWEETSCENT
+#-------------------------------
+[BINACLE]
+Skills = SURF,DIG
+#-------------------------------
+[BARBARACLE]
+Skills = SURF,DIVE,WHIRLPOOL,DIG
+#-------------------------------
+[SKRELP]
+Skills = SURF,WATERFALL,DIVE
+#-------------------------------
+[DRAGALGE]
+Skills = SURF,WATERFALL,DIVE
+#-------------------------------
+[CLAUNCHER]
+Skills = SURF,WATERFALL,DIVE
+#-------------------------------
+[CLAWITZER]
+Skills = SURF,WATERFALL,DIVE
+#-------------------------------
+[HELIOPTILE]
+Skills = SURF,DIG
+#-------------------------------
+[HELIOLISK]
+Skills = SURF,DIG
+#-------------------------------
+[TYRUNT]
+Skills = DIG
+#-------------------------------
+[TYRANTRUM]
+Skills = DIG
+#-------------------------------
+[SYLVEON]
+Skills = DIG
+#-------------------------------
+[HAWLUCHA]
+Skills = FLY,DEFOG,DIG
+#-------------------------------
+[DEDENNE]
+Skills = DIG
+#-------------------------------
+[GOODRA]
+Skills = SURF
+#-------------------------------
+[PHANTUMP]
+Skills = DIG
+#-------------------------------
+[TREVENANT]
+Skills = DIG
+#-------------------------------
+[BERGMITE]
+Skills = SURF
+#-------------------------------
+[AVALUGG]
+Skills = SURF
+#-------------------------------
+[NOIBAT]
+Skills = FLY,DEFOG
+#-------------------------------
+[NOIVERN]
+Skills = FLY,DEFOG
+#-------------------------------
+[YVELTAL]
+Skills = FLY
+#-------------------------------
+[ZYGARDE]
+Skills = DIG
+#-------------------------------
+[ROWLET]
+Skills = DEFOG
+#-------------------------------
+[DARTRIX]
+Skills = DEFOG
+#-------------------------------
+[DECIDUEYE]
+Skills = DEFOG
+#-------------------------------
+[POPPLIO]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[BRIONNE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[PRIMARINA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[PIKIPEK]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[TRUMBEAK]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[TOUCANNON]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[GRUBBIN]
+Skills = DIG
+#-------------------------------
+[CHARJABUG]
+Skills = DIG
+#-------------------------------
+[VIKAVOLT]
+Skills = FLY,DIG
+#-------------------------------
+[CRABRAWLER]
+Skills = ROCKSMASH
+#-------------------------------
+[CRABOMINABLE]
+Skills = ROCKSMASH
+#-------------------------------
+[ORICORIO]
+Skills = FLY,DEFOG
+#-------------------------------
+[CUTIEFLY]
+Skills = SWEETSCENT
+#-------------------------------
+[RIBOMBEE]
+Skills = SWEETSCENT
+#-------------------------------
+[WISHIWASHI]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[MAREANIE]
+Skills = SURF
+#-------------------------------
+[TOXAPEX]
+Skills = SURF
+#-------------------------------
+[MUDBRAY]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[MUDSDALE]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[DEWPIDER]
+Skills = SURF,WATERFALL,HEADBUTT
+#-------------------------------
+[ARAQUANID]
+Skills = SURF,WATERFALL,DIVE,HEADBUTT
+#-------------------------------
+[FOMANTIS]
+Skills = DEFOG,SWEETSCENT
+#-------------------------------
+[LURANTIS]
+Skills = DEFOG,SWEETSCENT
+#-------------------------------
+[SALANDIT]
+Skills = SWEETSCENT
+#-------------------------------
+[SALAZZLE]
+Skills = SWEETSCENT
+#-------------------------------
+[STUFFUL]
+Skills = STRENGTH
+#-------------------------------
+[BEWEAR]
+Skills = STRENGTH
+#-------------------------------
+[BOUNSWEET]
+Skills = SWEETSCENT
+#-------------------------------
+[STEENEE]
+Skills = SWEETSCENT
+#-------------------------------
+[TSAREENA]
+Skills = SWEETSCENT
+#-------------------------------
+[COMFEY]
+Skills = SWEETSCENT
+#-------------------------------
+[PASSIMIAN]
+Skills = ROCKSMASH
+#-------------------------------
+[WIMPOD]
+Skills = SURF,WATERFALL
+#-------------------------------
+[GOLISOPOD]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[SILVALLY]
+Skills = SURF
+#-------------------------------
+[BRUXISH]
+Skills = SURF,WATERFALL
+#-------------------------------
+[DRAMPA]
+Skills = FLY,SURF
+#-------------------------------
+[SEALURE]
+Skills = SURF,WHIRLPOOL
+#-------------------------------
+[DHELMISE]
+Skills = SURF,WHIRLPOOL
+#-------------------------------
+[JANGMOO]
+Skills = HEADBUTT
+#-------------------------------
+[HAKAMOO]
+Skills = HEADBUTT
+#-------------------------------
+[KOMMOO]
+Skills = HEADBUTT
+#-------------------------------
+[TAPUKOKO]
+Skills = FLY
+#-------------------------------
+[TAPULELE]
+Skills = SWEETSCENT
+#-------------------------------
+[TAPUBULU]
+Skills = ROCKSMASH
+#-------------------------------
+[TAPUFINI]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DEFOG
+#-------------------------------
+[COSMOG]
+Skills = TELEPORT
+#-------------------------------
+[COSMOEM]
+Skills = TELEPORT
+#-------------------------------
+[SOLGALEO]
+Skills = TELEPORT
+#-------------------------------
+[LUNALA]
+Skills = FLY,TELEPORT
+#-------------------------------
+[NIHILEGO]
+Skills = HEADBUTT
+#-------------------------------
+[CELESTEELA]
+Skills = FLY
+#-------------------------------
+[KARTANA]
+Skills = CUT,DEFOG
+#-------------------------------
+[NAGANADEL]
+Skills = FLY
+#-------------------------------
+[MELTAN]
+Skills = HEADBUTT
+#-------------------------------
+[MELMETAL]
+Skills = HEADBUTT
+#-------------------------------
+[GROOKEY]
+Skills = STRENGTH
+#-------------------------------
+[THWACKEY]
+Skills = STRENGTH
+#-------------------------------
+[RILLABOOM]
+Skills = STRENGTH
+#-------------------------------
+[SCORBUNNY]
+Skills = HEADBUTT
+#-------------------------------
+[RABOOT]
+Skills = HEADBUTT
+#-------------------------------
+[CINDERACE]
+Skills = HEADBUTT
+#-------------------------------
+[SOBBLE]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[DRIZZILE]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[INTELEON]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SKWOVET]
+Skills = DIG
+#-------------------------------
+[GREEDENT]
+Skills = DIG
+#-------------------------------
+[ROOKIDEE]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[CORVISQUIRE]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[CORVIKNIGHT]
+Skills = FLY,ROCKSMASH,DEFOG
+#-------------------------------
+[NICKIT]
+Skills = DIG
+#-------------------------------
+[THIEVUL]
+Skills = DIG
+#-------------------------------
+[GOSSIFLEUR]
+Skills = SWEETSCENT
+#-------------------------------
+[ELDEGOSS]
+Skills = SWEETSCENT
+#-------------------------------
+[WOOLOO]
+Skills = HEADBUTT
+#-------------------------------
+[DUBWOOL]
+Skills = HEADBUTT
+#-------------------------------
+[CHEWTLE]
+Skills = SURF,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[DREDNAW]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[YAMPER]
+Skills = DIG
+#-------------------------------
+[BOLTUND]
+Skills = DIG
+#-------------------------------
+[ROLYCOLY]
+Skills = DIG
+#-------------------------------
+[CARKOL]
+Skills = DIG
+#-------------------------------
+[COALOSSAL]
+Skills = DIG
+#-------------------------------
+[FLAPPLE]
+Skills = FLY
+#-------------------------------
+[APPLETUN]
+Skills = SWEETSCENT,HEADBUTT
+#-------------------------------
+[SILICOBRA]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[SANDACONDA]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[CRAMORANT]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG
+#-------------------------------
+[ARROKUDA]
+Skills = WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[BARRASKEWDA]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[CLOBBOPUS]
+Skills = WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[GRAPPLOCT]
+Skills = SURF,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[OBSTAGOON]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[PERRSERKER]
+Skills = DIG
+#-------------------------------
+[CURSOLA]
+Skills = SURF,WHIRLPOOL,DIG
+#-------------------------------
+[SIRFETCHD]
+Skills = CUT,ROCKSMASH,DEFOG
+#-------------------------------
+[MILCERY]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE]
+Skills = SWEETSCENT
+#-------------------------------
+[FALINKS]
+Skills = ROCKSMASH,HEADBUTT
+#-------------------------------
+[PINCURCHIN]
+Skills = SURF
+#-------------------------------
+[FROSMOTH]
+Skills = DEFOG
+#-------------------------------
+[EISCUE]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[CUFANT]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[COPPERAJAH]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[ARCTOZOLT]
+Skills = SURF
+#-------------------------------
+[DRACOVISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[ARCTOVISH]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[DURALUDON]
+Skills = ROCKSMASH
+#-------------------------------
+[DRAKLOAK]
+Skills = SURF,DIVE
+#-------------------------------
+[DRAGAPULT]
+Skills = FLY,SURF,DIVE
+#-------------------------------
+[ZACIAN]
+Skills = DIG
+#-------------------------------
+[ZAMAZENTA]
+Skills = DIG
+#-------------------------------
+[ETERNATUS]
+Skills = FLY
+#-------------------------------
+[KUBFU]
+Skills = ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[URSHIFU]
+Skills = ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[ZARUDE]
+Skills = DIG
+#-------------------------------
+[SUNNYDRA]
+Skills = CUT,SWEETSCENT
+#-------------------------------
+[SINGINGALE]
+Skills = FLY,DEFOG
+#-------------------------------
+[VENUSAUR_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,SWEETSCENT
+#-------------------------------
+[CHARIZARD_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CHARIZARD_2]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[BLASTOISE_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[BEEDRILL_1]
+Skills = CUT,FLASH,ROCKSMASH,DEFOG
+#-------------------------------
+[PIDGEOT_1]
+Skills = FLY,DEFOG
+#-------------------------------
+[VULPIX_1]
+Skills = SECRETPOWER
+#-------------------------------
+[NINETALES_1]
+Skills = SECRETPOWER
+#-------------------------------
+[DIGLETT_1]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DUGTRIO_1]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[MEOWTH_2]
+Skills = DIG
+#-------------------------------
+[ALAKAZAM_1]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[GEODUDE_1]
+Skills = ROCKCLIMB
+#-------------------------------
+[GRAVELER_1]
+Skills = ROCKCLIMB
+#-------------------------------
+[GOLEM_1]
+Skills = ROCKCLIMB
+#-------------------------------
+[SLOWPOKE_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[SLOWBRO_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[SLOWBRO_2]
+Skills = SURF,STRENGTH,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[FARFETCHD_1]
+Skills = ROCKSMASH,DEFOG
+#-------------------------------
+[GENGAR_1]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[CUBONE_1]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[MAROWAK_1]
+Skills = HEADBUTT
+#-------------------------------
+[WEEZING_1]
+Skills = DEFOG
+#-------------------------------
+[KANGASKHAN_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[PINSIR_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[GYARADOS_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[AERODACTYL_1]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG
+#-------------------------------
+[ARTICUNO_1]
+Skills = FLY
+#-------------------------------
+[ZAPDOS_1]
+Skills = FLY,ROCKSMASH
+#-------------------------------
+[MOLTRES_1]
+Skills = FLY
+#-------------------------------
+[MEWTWO_1]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[MEWTWO_2]
+Skills = STRENGTH,DIVE,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[PICHU_2]
+Skills = SURF,FLASH
+#-------------------------------
+[AMPHAROS_1]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[SLOWKING_1]
+Skills = SURF,DIVE,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[STEELIX_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SCIZOR_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DEFOG
+#-------------------------------
+[HERACROSS_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[CORSOLA_1]
+Skills = SURF,WHIRLPOOL,DIG
+#-------------------------------
+[HOUNDOOM_1]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[TYRANITAR_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[SCEPTILE_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[BLAZIKEN_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[SWAMPERT_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[ZIGZAGOON_1]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[LINOONE_1]
+Skills = SURF,WHIRLPOOL,DIG,HEADBUTT
+#-------------------------------
+[GARDEVOIR_1]
+Skills = FLASH,TELEPORT
+#-------------------------------
+[SABLEYE_1]
+Skills = CUT,FLASH,ROCKSMASH,DIG
+#-------------------------------
+[MAWILE_1]
+Skills = STRENGTH,ROCKSMASH,SWEETSCENT
+#-------------------------------
+[AGGRON_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG,HEADBUTT
+#-------------------------------
+[MEDICHAM_1]
+Skills = STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[MANECTRIC_1]
+Skills = STRENGTH,FLASH,HEADBUTT
+#-------------------------------
+[SHARPEDO_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[CAMERUPT_1]
+Skills = STRENGTH,ROCKSMASH,DIG
+#-------------------------------
+[ALTARIA_1]
+Skills = FLY,ROCKSMASH
+#-------------------------------
+[CASTFORM_1]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[CASTFORM_2]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[CASTFORM_3]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[BANETTE_1]
+Skills = FLASH
+#-------------------------------
+[ABSOL_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[GLALIE_1]
+Skills = FLASH,HEADBUTT
+#-------------------------------
+[SALAMENCE_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,HEADBUTT
+#-------------------------------
+[METAGROSS_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[LATIAS_1]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[LATIOS_1]
+Skills = CUT,FLY,SURF,WATERFALL,DIVE,FLASH,WHIRLPOOL,DEFOG
+#-------------------------------
+[KYOGRE_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[GROUDON_1]
+Skills = CUT,STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[RAYQUAZA_1]
+Skills = FLY,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL
+#-------------------------------
+[DEOXYS_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT
+#-------------------------------
+[DEOXYS_2]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT
+#-------------------------------
+[DEOXYS_3]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH
+#-------------------------------
+[WORMADAM_1]
+Skills = FLASH,DIG
+#-------------------------------
+[WORMADAM_2]
+Skills = FLASH,DIG
+#-------------------------------
+[CHERRIM_1]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[SHELLOS_1]
+Skills = SURF,DIVE,WHIRLPOOL
+#-------------------------------
+[GASTRODON_1]
+Skills = SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,WHIRLPOOL,DIG
+#-------------------------------
+[LOPUNNY_1]
+Skills = CUT,STRENGTH,ROCKSMASH,DIG,HEADBUTT
+#-------------------------------
+[GARCHOMP_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH,WHIRLPOOL,ROCKCLIMB,DIG
+#-------------------------------
+[LUCARIO_1]
+Skills = STRENGTH,ROCKSMASH,ROCKCLIMB,DIG
+#-------------------------------
+[ABOMASNOW_1]
+Skills = STRENGTH,FLASH,ROCKSMASH,ROCKCLIMB
+#-------------------------------
+[GALLADE_1]
+Skills = CUT,STRENGTH,FLASH,ROCKSMASH,TELEPORT
+#-------------------------------
+[ROTOM_1]
+Skills = FLASH
+#-------------------------------
+[ROTOM_2]
+Skills = FLASH
+#-------------------------------
+[ROTOM_3]
+Skills = FLASH
+#-------------------------------
+[ROTOM_4]
+Skills = FLASH
+#-------------------------------
+[ROTOM_5]
+Skills = FLASH
+#-------------------------------
+[GIRATINA_1]
+Skills = CUT,FLY,STRENGTH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[SHAYMIN_1]
+Skills = FLASH,SWEETSCENT
+#-------------------------------
+[ARCEUS_1]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_2]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_3]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_4]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_5]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_6]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_7]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_8]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_9]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_10]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_11]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_12]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_13]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_14]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_15]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_16]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_17]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[ARCEUS_18]
+Skills = CUT,FLY,SURF,STRENGTH,WATERFALL,DIVE,FLASH,ROCKSMASH,DEFOG,ROCKCLIMB
+#-------------------------------
+[AUDINO_1]
+Skills = SURF,DIG
+#-------------------------------
+[BASCULIN_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[DARUMAKA_2]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DARMANITAN_1]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DARMANITAN_2]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DARMANITAN_3]
+Skills = DIG,HEADBUTT
+#-------------------------------
+[DEERLING_1]
+Skills = HEADBUTT
+#-------------------------------
+[DEERLING_2]
+Skills = HEADBUTT
+#-------------------------------
+[DEERLING_3]
+Skills = HEADBUTT
+#-------------------------------
+[SAWSBUCK_1]
+Skills = CUT,ROCKSMASH,HEADBUTT
+#-------------------------------
+[SAWSBUCK_2]
+Skills = CUT,ROCKSMASH,HEADBUTT
+#-------------------------------
+[SAWSBUCK_3]
+Skills = CUT,ROCKSMASH,HEADBUTT
+#-------------------------------
+[STUNFISK_1]
+Skills = SURF,DIG
+#-------------------------------
+[TORNADUS_1]
+Skills = FLY
+#-------------------------------
+[THUNDURUS_1]
+Skills = FLY,STRENGTH,ROCKSMASH,DEFOG
+#-------------------------------
+[LANDORUS_1]
+Skills = FLY,DIG
+#-------------------------------
+[KYUREM_1]
+Skills = FLY
+#-------------------------------
+[KYUREM_2]
+Skills = FLY
+#-------------------------------
+[KYUREM_3]
+Skills = FLY
+#-------------------------------
+[KYUREM_4]
+Skills = FLY
+#-------------------------------
+[KELDEO_1]
+Skills = CUT,SURF,STRENGTH,ROCKSMASH
+#-------------------------------
+[MELOETTA_1]
+Skills = STRENGTH,ROCKSMASH
+#-------------------------------
+[GENESECT_1]
+Skills = FLY
+#-------------------------------
+[GENESECT_2]
+Skills = FLY
+#-------------------------------
+[GENESECT_3]
+Skills = FLY
+#-------------------------------
+[GENESECT_4]
+Skills = FLY
+#-------------------------------
+[GRENINJA_1]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[GRENINJA_2]
+Skills = CUT,SURF,STRENGTH,WATERFALL,DIVE,ROCKSMASH
+#-------------------------------
+[VIVILLON_1]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_2]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_3]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_4]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_5]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_6]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_7]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_8]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_9]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_10]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_11]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_12]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_13]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_14]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_15]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_16]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_17]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_18]
+Skills = DEFOG
+#-------------------------------
+[VIVILLON_19]
+Skills = DEFOG
+#-------------------------------
+[FLORGES_1]
+Skills = DEFOG
+#-------------------------------
+[FLORGES_2]
+Skills = DEFOG
+#-------------------------------
+[FLORGES_3]
+Skills = DEFOG
+#-------------------------------
+[FLORGES_4]
+Skills = DEFOG
+#-------------------------------
+[FURFROU_1]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_2]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_3]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_4]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_5]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_6]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_7]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_8]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[FURFROU_9]
+Skills = SURF,ROCKSMASH,HEADBUTT
+#-------------------------------
+[MEOWSTIC_1]
+Skills = DIG
+#-------------------------------
+[ZYGARDE_1]
+Skills = DIG
+#-------------------------------
+[ZYGARDE_2]
+Skills = DIG
+#-------------------------------
+[ZYGARDE_3]
+Skills = DIG
+#-------------------------------
+[ORICORIO_1]
+Skills = FLY,DEFOG
+#-------------------------------
+[ORICORIO_2]
+Skills = FLY,DEFOG
+#-------------------------------
+[ORICORIO_3]
+Skills = FLY,DEFOG
+#-------------------------------
+[LYCANROC_1]
+Skills = ROCKCLIMB
+#-------------------------------
+[LYCANROC_2]
+Skills = ROCKCLIMB
+#-------------------------------
+[WISHIWASHI_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL
+#-------------------------------
+[SILVALLY_1]
+Skills = SURF
+#-------------------------------
+[SILVALLY_2]
+Skills = SURF
+#-------------------------------
+[SILVALLY_3]
+Skills = SURF
+#-------------------------------
+[SILVALLY_4]
+Skills = SURF
+#-------------------------------
+[SILVALLY_5]
+Skills = SURF
+#-------------------------------
+[SILVALLY_6]
+Skills = SURF
+#-------------------------------
+[SILVALLY_7]
+Skills = SURF
+#-------------------------------
+[SILVALLY_8]
+Skills = SURF
+#-------------------------------
+[SILVALLY_9]
+Skills = SURF
+#-------------------------------
+[SILVALLY_10]
+Skills = SURF
+#-------------------------------
+[SILVALLY_11]
+Skills = SURF
+#-------------------------------
+[SILVALLY_12]
+Skills = SURF
+#-------------------------------
+[SILVALLY_13]
+Skills = SURF
+#-------------------------------
+[SILVALLY_14]
+Skills = SURF
+#-------------------------------
+[SILVALLY_15]
+Skills = SURF
+#-------------------------------
+[SILVALLY_16]
+Skills = SURF,DEFOG
+#-------------------------------
+[SILVALLY_17]
+Skills = SURF
+#-------------------------------
+[SILVALLY_18]
+Skills = SURF
+#-------------------------------
+[CRAMORANT_1]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG
+#-------------------------------
+[CRAMORANT_2]
+Skills = FLY,SURF,DIVE,WHIRLPOOL,DEFOG
+#-------------------------------
+[ALCREMIE_7]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_8]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_9]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_10]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_11]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_12]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_13]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_14]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_15]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_16]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_17]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_18]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_19]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_20]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_21]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_22]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_23]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_24]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_25]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_26]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_27]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_28]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_29]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_30]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_31]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_32]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_33]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_34]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_35]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_36]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_37]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_38]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_39]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_40]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_41]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_42]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_43]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_44]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_45]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_46]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_47]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_48]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_49]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_50]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_51]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_52]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_53]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_54]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_55]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_56]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_57]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_58]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_59]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_60]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_61]
+Skills = SWEETSCENT
+#-------------------------------
+[ALCREMIE_62]
+Skills = SWEETSCENT
+#-------------------------------
+[EISCUE_1]
+Skills = SURF,WATERFALL,DIVE,WHIRLPOOL,HEADBUTT
+#-------------------------------
+[ZACIAN_1]
+Skills = DIG
+#-------------------------------
+[ZAMAZENTA_1]
+Skills = DIG
+#-------------------------------
+[URSHIFU_1]
+Skills = WATERFALL,DIVE,ROCKSMASH,WHIRLPOOL,DIG,HEADBUTT

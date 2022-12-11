@@ -1,0 +1,82 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[042] # Puddles Forest
+Land,21
+    10,SPINARAK,1,4
+    10,DEWPIDER,1,4
+    10,JOLTIK,1,4
+    10,SEEDOT,1,4
+    10,BUNNELBY,1,4
+    10,BUNEARY,1,4
+    10,DEERLING,1,4
+    10,PIDGEY,1,4
+    10,ROOKIDEE,1,4
+    10,AZURILL,1,4
+#-------------------------------
+[078] # Gardenlodge Gym
+Land,21
+    20,CUTIEFLY,2,4
+    20,ODDISH,2,4
+    20,NINCADA,2,4
+    10,APPLIN,2,4
+    10,CATERPIE,2,4
+    20,SUNKERN,2,4
+#-------------------------------
+[080] # Sunflower Road
+Land,21
+    10,SUNKERN,4,8
+    20,SUNFLORA,4,8
+    10,WEEDLE,4,8
+    10,SILICOBRA,4,8
+    10,EKANS,4,8
+    10,RATTATA,4,8
+    10,COMBEE,4,8
+    10,HOPPIP,4,8
+    10,FERROSEED,4,8
+LandNight,21
+    20,KRICKETOT,4,8
+    10,SILICOBRA,4,8
+    20,EKANS,4,8
+    30,RATTATA_1,4,8
+    10,HOOTHOOT,4,8
+    10,WURMPLE,4,8
+# static encounters: cocoons, foxes, ferroseed
+#-------------------------------
+# for towns: pidove, ledyba, meowths, trubbish, burmy, seedot, rattatas
+#-------------------------------
+[081] # Rivertown
+Land,21
+    10,ROSELIA,6,9
+    10,MARILL,6,9
+    20,PIDOVE,6,9
+    20,LEDYBA,6,9
+    20,RATTATA,6,9
+    20,MEOWTH,6,9
+LandNight,21
+    20,BURMY_2,6,9
+    20,PIDOVE,6,9
+    20,LEDYBA,6,9
+    20,RATTATA_1,6,9
+    20,MEOWTH_1,6,9
+OldRod
+    80,MAGIKARP,7,12
+    10,LUVDISC,7,12
+    10,FEEBAS,7,12
+GoodRod
+#-------------------------------
+[082] # Rivertown Gym
+Land,21
+    10,FROAKIE,6,9
+    10,POLIWAG,6,9
+    10,ROSELIA,6,9
+    30,MARILL,6,9
+    20,WINGULL,6,9
+    20,WOOPER,6,9
+OldRod
+    80,LUVDISC,7,12
+    10,FEEBAS,7,12
+    10,FINNEON,7,12
+GoodRod
+    10,ARROKUDA,7,12
+    10,QWILFISH,7,12
+    10,FRILLISH,7,12

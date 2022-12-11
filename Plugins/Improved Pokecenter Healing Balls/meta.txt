@@ -1,0 +1,4 @@
+Name = Improved PC Healing Balls
+Version = 1.0.0
+Essentials = 20.1
+Credits = mej71, P.Claydon/tammyclaydon
